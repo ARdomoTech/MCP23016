@@ -1,0 +1,47 @@
+#######################################
+# Syntax Coloring Map For MCP23016
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MCP23016 		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init 			KEYWORD2
+pinMode 		KEYWORD2
+digitalWrite 	KEYWORD2
+digitalRead 	KEYWORD2
+writeByte 		KEYWORD2
+readByte 		KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+a0 				LITERAL1
+a1 				LITERAL1
+a2 				LITERAL1
+a3 				LITERAL1
+a4 				LITERAL1
+a5 				LITERAL1
+a6 				LITERAL1
+a7 				LITERAL1
+b0 				LITERAL1
+b1 				LITERAL1
+b2 				LITERAL1
+b3 				LITERAL1
+b4 				LITERAL1
+b5 				LITERAL1
+a6 				LITERAL1
+b7 				LITERAL1
+mcpA 			LITERAL1
+mcpB 			LITERAL1

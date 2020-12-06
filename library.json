@@ -1,0 +1,21 @@
+{
+  "name": "MCP23016",
+  "keywords": "MCP23016, I2C, IO",
+  "description": "ESP32 Arduino library for Microchip MCP23016 16-channel IO expander",
+  "authors":
+  [
+    {
+      "name": "Allan Cruzado",
+      "email": "allan.cruzado@me.com",
+      "maintainer": true
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/ARdomoTech/MCP23016"
+  },
+  "version":"1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
